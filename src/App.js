@@ -2,7 +2,7 @@
 import { BrowserRouter as Router, Route, Routes, NavLink} from 'react-router-dom'
 // import { useState } from "react"
 import React from "react"
-import Card from './components/shared/Card'
+// import Card from './components/shared/Card'
 import Header from "./components/Header"
 // import FeedBackItem from "./components/FeedBackItem"
 import FeedBackList from "./components/FeedBackList"
