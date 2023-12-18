@@ -51,7 +51,9 @@ import FeedbackContext from "../context/FeedbackContext"
             } else {
                 addFeedback(newFeedback)
             }
-            addFeedback(newFeedback)
+            // addFeedback(newFeedback)
+            //So delete that on line 54 of FeedbackForm.jsx line. Then you should be good.
+            // https://www.udemy.com/course/react-front-to-back-2022/learn/lecture/29768200#questions/20981346
 
             setText('')
         }
